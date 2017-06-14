@@ -1,0 +1,31 @@
+{
+  "name": "kiandahub-logo",
+  "version": "0.0.0",
+  "description": "Css only logo of KiandaHub a Tech Hub in Angola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doriel/kiandahub-logo.git"
+  },
+  "keywords": [
+    "gulp",
+    "stylus",
+    "kiandahub",
+    "angola",
+    "doriel",
+    "doriel3572"
+  ],
+  "author": "Doriel Fonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doriel/kiandahub-logo/issues"
+  },
+  "homepage": "https://github.com/doriel/kiandahub-logo",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.6.0"
+  }
+}
